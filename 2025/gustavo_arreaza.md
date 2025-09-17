@@ -75,8 +75,8 @@ Many chapters and projects operate in silos without enough cross-collaboration, 
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
 One of the key blockers for OWASP projects has been the perception of lifetime seniority—where once a project leader or speaker becomes established, there are no clear mechanisms to rotate leadership or hold them accountable. This creates stagnation and prevents new voices from contributing.
-
 If elected, I will implement a fair and transparent governance model:
+ <br>
 	1.	End “lifetime seniority.”
 	•	Introduce term-based leadership for projects and committees, with periodic renewal based on activity and impact.
 	•	Encourage shared ownership so that no single individual becomes a permanent gatekeeper.
