@@ -58,30 +58,47 @@ If elected, in my first 90 days I will:
 
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 <br>
-1. **Staying relevant in emerging domains** (AI, supply chain, cloud-native).  
-   → I will build new working groups to produce concrete outputs in these fields.  
-
-2. **Ensuring project and chapter sustainability.**  
-   → I will pair projects with mentors and sponsors to reduce attrition and foster growth.  
-
-3. **Expanding global inclusion.**  
-   → I will lead a program to provide grants, mentorship, and translations for underrepresented regions like LATAM, Africa, and the Middle East.  
+	1.	Modernization of OWASP’s ecosystem.
+OWASP still struggles with fragmentation across projects, chapters, and continents. Too often, conferences repeat the same talks, and some speakers or materials no longer reflect the current realities of cloud, AI, and modern development.
+	•	Action Plan: I will propose a Global Modernization Program that includes curating updated content, refreshing project roadmaps, and encouraging younger and more diverse voices to present at events. This ensures OWASP stays innovative and relevant.
+	2.	Expanding global inclusion.
+OWASP’s visibility remains concentrated in certain regions, while communities in LATAM, Africa, and the Middle East often lack resources or representation.
+	•	Action Plan: I will spearhead a Global Inclusion Initiative, focused on providing micro-grants for local chapters, mentoring new leaders, and translating flagship OWASP projects (ASVS, SAMM, Top 10) into more languages. This will remove barriers and expand OWASP’s reach.
+	3.	Strengthening project-chapter synergy.
+Many chapters and projects operate in silos without enough cross-collaboration, leading to missed opportunities for growth and impact.
+	•	Action Plan: I will lead the creation of a Chapter–Project Exchange Program, where active chapters partner with projects to test tools, provide feedback, and co-host workshops. This will reduce fragmentation and strengthen the link between OWASP’s research and community adoption.  
 <br>
 
 #### Several OWASP projects are stale and leads are unresponsive. If elected, what is your concrete, time bound plan to triage these projects, re-engage with inactive leads or relaunch based on clear criteria and timelines?
 <br>
-Within the first 6 months I will:  
-- Publish a **project status report** identifying stale projects.  
-- Reach out to inactive leads and give a **90-day response window**.  
-- Relaunch projects by assigning new leads or archive them with community approval.  
-- Establish a **mentorship program** to empower new leaders to take over.  
+One of the key blockers for OWASP projects has been the perception of lifetime seniority—where once a project leader or speaker becomes established, there are no clear mechanisms to rotate leadership or hold them accountable. This creates stagnation and prevents new voices from contributing.
+
+If elected, I will implement a fair and transparent governance model:
+	1.	End “lifetime seniority.”
+	•	Introduce term-based leadership for projects and committees, with periodic renewal based on activity and impact.
+	•	Encourage shared ownership so that no single individual becomes a permanent gatekeeper.
+	2.	Equal and consistent penalty model.
+	•	Establish a uniform accountability system: inactive leaders, regardless of status or seniority, face the same rules.
+	•	Apply a 90-day inactivity threshold before projects are reassigned or archived, ensuring fairness and transparency.
+	3.	Editorial and Collective Publishing.
+	•	Shift from personality-driven outputs to group-reviewed publications, ensuring that OWASP research reflects the collective knowledge of its community.
+	4.	Expansion and Modernization.
+	•	Launch a global YouTube channel highlighting modern security topics (AI, cloud, DevSecOps) rather than repeating outdated talks.
+	•	Support South America, Africa, and Asia with micro-grants, mentorship, and certification programs that expand OWASP’s reach and financial sustainability.
+
 <br>
 
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
-I will:  
-- Promote **regional OWASP Days** in Arab countries focused on secure coding and compliance (GDPR, NCA, local data laws).  
-- Support **translation of flagship projects** like ASVS, SAMM, and OWASP Top 10 into Arabic.  
-- Build **training initiatives** with local universities to grow secure coding skills.  
-- Encourage cross-regional collaboration between Arab countries and other regions.  
+The Arab region is experiencing rapid developments in cybersecurity legislation and compliance, especially in countries such as Saudi Arabia and Qatar. To strengthen OWASP’s presence and impact in this region, I would pursue a three-step approach:
+	1.	Engage with government cybersecurity entities.
+Build formal relationships with national cybersecurity authorities to align OWASP projects with local frameworks, regulations, and strategic initiatives.
+	2.	Develop local talent and security champions.
+Identify and mentor security champions within universities, enterprises, and startups. Empower them to represent OWASP through publications, translations, and technical leadership.
+	3.	Visibility and regional events.
+	•	Support these champions to build a strong social media presence that showcases OWASP knowledge in Arabic.
+	•	Organize regional OWASP Days and workshops specifically tailored to secure coding, cloud, and OT systems.
+	•	Provide grants and resources to help chapters in the Middle East grow sustainably.
+
+This approach combines government collaboration, grassroots leadership, and public visibility to create a long-lasting OWASP footprint in the Arab world. 
 <br>
