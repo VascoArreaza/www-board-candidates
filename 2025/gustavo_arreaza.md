@@ -60,10 +60,13 @@ If elected, in my first 90 days I will:
 <br>
 	1.	Modernization of OWASP’s ecosystem.
 OWASP still struggles with fragmentation across projects, chapters, and continents. Too often, conferences repeat the same talks, and some speakers or materials no longer reflect the current realities of cloud, AI, and modern development.
+<br>
 	•	Action Plan: I will propose a Global Modernization Program that includes curating updated content, refreshing project roadmaps, and encouraging younger and more diverse voices to present at events. This ensures OWASP stays innovative and relevant.
+ <br>
 	2.	Expanding global inclusion.
 OWASP’s visibility remains concentrated in certain regions, while communities in LATAM, Africa, and the Middle East often lack resources or representation.
 	•	Action Plan: I will spearhead a Global Inclusion Initiative, focused on providing micro-grants for local chapters, mentoring new leaders, and translating flagship OWASP projects (ASVS, SAMM, Top 10) into more languages. This will remove barriers and expand OWASP’s reach.
+ <br>
 	3.	Strengthening project-chapter synergy.
 Many chapters and projects operate in silos without enough cross-collaboration, leading to missed opportunities for growth and impact.
 	•	Action Plan: I will lead the creation of a Chapter–Project Exchange Program, where active chapters partner with projects to test tools, provide feedback, and co-host workshops. This will reduce fragmentation and strengthen the link between OWASP’s research and community adoption.  
@@ -77,11 +80,14 @@ If elected, I will implement a fair and transparent governance model:
 	1.	End “lifetime seniority.”
 	•	Introduce term-based leadership for projects and committees, with periodic renewal based on activity and impact.
 	•	Encourage shared ownership so that no single individual becomes a permanent gatekeeper.
+  <br>
 	2.	Equal and consistent penalty model.
 	•	Establish a uniform accountability system: inactive leaders, regardless of status or seniority, face the same rules.
 	•	Apply a 90-day inactivity threshold before projects are reassigned or archived, ensuring fairness and transparency.
+  <br>
 	3.	Editorial and Collective Publishing.
 	•	Shift from personality-driven outputs to group-reviewed publications, ensuring that OWASP research reflects the collective knowledge of its community.
+  <br>
 	4.	Expansion and Modernization.
 	•	Launch a global YouTube channel highlighting modern security topics (AI, cloud, DevSecOps) rather than repeating outdated talks.
 	•	Support South America, Africa, and Asia with micro-grants, mentorship, and certification programs that expand OWASP’s reach and financial sustainability.
@@ -91,14 +97,18 @@ If elected, I will implement a fair and transparent governance model:
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
 The Arab region is experiencing rapid developments in cybersecurity legislation and compliance, especially in countries such as Saudi Arabia and Qatar. To strengthen OWASP’s presence and impact in this region, I would pursue a three-step approach:
+ <br>
 	1.	Engage with government cybersecurity entities.
 Build formal relationships with national cybersecurity authorities to align OWASP projects with local frameworks, regulations, and strategic initiatives.
+ <br>
 	2.	Develop local talent and security champions.
 Identify and mentor security champions within universities, enterprises, and startups. Empower them to represent OWASP through publications, translations, and technical leadership.
+ <br>
 	3.	Visibility and regional events.
 	•	Support these champions to build a strong social media presence that showcases OWASP knowledge in Arabic.
+  <br>
 	•	Organize regional OWASP Days and workshops specifically tailored to secure coding, cloud, and OT systems.
 	•	Provide grants and resources to help chapters in the Middle East grow sustainably.
-
+ <br>
 This approach combines government collaboration, grassroots leadership, and public visibility to create a long-lasting OWASP footprint in the Arab world. 
 <br>
