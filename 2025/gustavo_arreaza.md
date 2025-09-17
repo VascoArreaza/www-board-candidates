@@ -11,7 +11,7 @@ layout: col-generic
   <img src="https://raw.githubusercontent.com/VascoArreaza/www-board-candidates/master/assets/images/Gustavo_Arreaza.jpeg" alt="Gustavo Arreaza" width="250"/>
 </div>
 
-I’m a **Cybersecurity Engineer** with over 10 years of international experience across the U.S. and LATAM, specializing in securing hybrid, cloud-native, and blockchain infrastructures.  
+I’m a **Cybersecurity Engineer** with over 15 years of international experience across the U.S. and LATAM, specializing in securing hybrid, cloud-native, and blockchain infrastructures.  
 My expertise includes Zero Trust architecture, DevSecOps, mobile application security, and compliance frameworks such as HIPAA, PCI-DSS, and ISO 27001.
 
 As a **contributor to the Cloud Security Alliance**, a frequent speaker across four continents, and a technical content creator with over **17,000 YouTube subscribers**, I bridge deep technical knowledge with engaging education and business alignment.
