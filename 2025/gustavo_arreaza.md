@@ -85,14 +85,15 @@ If elected, I will implement a **fair and transparent governance model**:
 
 2. **Equal and consistent penalty model**  
    - Establish a **uniform accountability system**: inactive leaders, regardless of status or seniority, face the same rules.  
-   - Apply a **90-day inactivity threshold** before projects are reassigned or archived.  
+   - Apply a **180-day inactivity threshold** before projects are reassigned or archived.  
 
 3. **Editorial and collective publishing**  
    - Shift from personality-driven outputs to **group-reviewed publications**, ensuring that OWASP research reflects the collective knowledge of its community.  
 
 4. **Expansion and modernization**  
    - Launch a **global OWASP YouTube channel** focused on modern security topics (AI, cloud, DevSecOps) rather than repeating outdated talks.  
-   - Support **South America, Africa, and Asia** with micro-grants, mentorship, and certification programs that expand OWASP’s reach and sustainability.  
+   - Support **South America, Africa, and Asia** with micro-grants, mentorship, and certification programs that expand OWASP’s reach and sustainability.
+   - Introduce a **paid certification system** linked to OWASP projects, creating a sustainable revenue stream while offering affordable, globally recognized credentials to professionals worldwide.  
 
 ---
 
