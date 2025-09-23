@@ -2,7 +2,7 @@
 
 candidate: true
 title: Gustavo Arreaza
-layout: col-generic
+layout: col-genericc
 
 ---
 
